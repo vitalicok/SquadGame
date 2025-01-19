@@ -1,0 +1,16 @@
+.team-card {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px black;
+}
+  
+.team-card img {
+  width: 100px; 
+  height: 100px; 
+  object-fit: cover; 
+  border-radius: 8px;
+  display: block; 
+  margin: 0 auto; 
+}

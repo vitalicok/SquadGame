@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2F8Fo9UrwY9jJF2YdxX61kwDVGXyE6zLKerMIbfDizE=",
+  "Source": "SquadGame.Core.Service",
+  "BasePath": "_content/SquadGame.Core.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

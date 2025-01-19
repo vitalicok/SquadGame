@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquadGame.Core.Service", "SquadGame.Core.Service\SquadGame.Core.Service.csproj", "{60469B42-A9A0-4717-811E-B16A948765B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquadGame.Api.Base", "SquadGame.Api.Base\SquadGame.Api.Base.csproj", "{65ACB4E0-5F8A-4E2C-9542-0B84CDF0FD1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60469B42-A9A0-4717-811E-B16A948765B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60469B42-A9A0-4717-811E-B16A948765B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60469B42-A9A0-4717-811E-B16A948765B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60469B42-A9A0-4717-811E-B16A948765B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65ACB4E0-5F8A-4E2C-9542-0B84CDF0FD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65ACB4E0-5F8A-4E2C-9542-0B84CDF0FD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65ACB4E0-5F8A-4E2C-9542-0B84CDF0FD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65ACB4E0-5F8A-4E2C-9542-0B84CDF0FD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8365C92F-CAD3-4DF6-A82A-9753C84EFC07}
+	EndGlobalSection
+EndGlobal

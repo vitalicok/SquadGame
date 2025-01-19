@@ -1,0 +1,13 @@
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\SquadGame.Api.Base.csproj.AssemblyReference.cache
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\SquadGame.Api.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\SquadGame.Api.Base.AssemblyInfoInputs.cache
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\SquadGame.Api.Base.AssemblyInfo.cs
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\SquadGame.Api.Base.csproj.CoreCompileInputs.cache
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\SquadGame.Api.Base.sourcelink.json
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\bin\Debug\net8.0\SquadGame.Api.Base.deps.json
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\bin\Debug\net8.0\SquadGame.Api.Base.dll
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\bin\Debug\net8.0\SquadGame.Api.Base.pdb
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\SquadGame.Api.Base.dll
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\refint\SquadGame.Api.Base.dll
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\SquadGame.Api.Base.pdb
+D:\Projects\SquadGame\src\SquadGame\SquadGame.Api.Base\obj\Debug\net8.0\ref\SquadGame.Api.Base.dll

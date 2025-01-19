@@ -1,0 +1,43 @@
+.team-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px; 
+}
+
+.team-item {
+  flex: 1 1 calc(25% - 16px); 
+  max-width: 230px;
+}
+
+.team-players {
+  margin-top: 20px;
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    
+    img {
+      border-radius: 50%;
+      margin-right: 10px;
+    }
+    
+    span {
+      font-size: 16px;
+      margin-right: 10px;
+    }
+  }
+}
