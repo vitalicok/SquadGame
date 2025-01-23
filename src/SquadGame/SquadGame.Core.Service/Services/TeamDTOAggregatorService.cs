@@ -23,8 +23,10 @@ namespace SquadGame.Core.Service.Services
 
                 if (teamResponse.Players?.Any() == true)
                     team.Squad = teamResponse.Players.Select(a => new PlayerDTO { 
-                        FirstName = a.Firstname,
+                        PlayerId = a.Id,
+                        FirstName = a.Name,
                         Surname = a.Lastname,
+                        Age = a.Age,
                         DateOfBirth = a.Birth?.Date,
                         Position = a.Position,
                         ProfilePictureUrl = a.Photo
@@ -75,8 +77,12 @@ namespace SquadGame.Core.Service.Services
                         if (destinationPlayer.Birth.Place is null)
                             destinationPlayer.Birth.Place = sourcePlayer.Birth.Place;
 
+                        if (destinationPlayer.Age != default)
+                            destinationPlayer.Age = sourcePlayer.Age;
+
                         if (string.IsNullOrWhiteSpace(destinationPlayer.Photo))
                             destinationPlayer.Photo = sourcePlayer.Photo;
+
                     }
                 }
             }

@@ -35,7 +35,8 @@ const TeamList: React.FC<TeamListProps> = ({ searchTerm, league, seasonYear }) =
   }, [league, seasonYear]);
 
   const filteredTeams = searchTerm
-    ? teams.filter((team) => team.name.toLowerCase().includes(searchTerm.toLowerCase()))
+    ? teams.filter((team) => team.name.toLowerCase().includes(searchTerm.toLowerCase()) 
+                    || team.nickname.toLowerCase().includes(searchTerm.toLowerCase()))
     : teams;
 
   const handleTeamClick = async (teamId: number) => {
@@ -72,6 +73,7 @@ const TeamList: React.FC<TeamListProps> = ({ searchTerm, league, seasonYear }) =
                 <li key={player.playerId}>
                   <img src={player.profilePictureUrl} alt={player.firstName} width="50" />
                   <span>{player.firstName} {player.surname}</span>
+                  <span>{player.age}</span>
                   <span> - {player.position}</span>
                 </li>
               ))}

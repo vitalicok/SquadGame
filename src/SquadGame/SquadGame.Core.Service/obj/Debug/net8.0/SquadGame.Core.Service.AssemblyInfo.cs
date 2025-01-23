@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquadGame.Core.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc8fce514937652bac41e472a2e5ab6b3b2c7c4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84e777a1d599669114d08d8a2a7a4e2c34feaf64")]
 [assembly: System.Reflection.AssemblyProductAttribute("SquadGame.Core.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SquadGame.Core.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,7 @@ export interface PlayerDTO {
     profilePictureUrl: string;
     firstName: string;
     surname: string;
+    age: number;
     dateOfBirth?: string;
     position: string;
   }

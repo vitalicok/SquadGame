@@ -9,6 +9,7 @@ namespace SquadGame.Core.Service.Models.DTOs
         [JsonPropertyName("name")]
         public string FirstName { get; set; }
         public string Surname { get; set; }
+        public int Age { get; set; }
         public DateTime? DateOfBirth { get; set; }
         public string Position { get; set; }
     }
